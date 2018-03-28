@@ -2,7 +2,7 @@
 layout: blog
 movie: true
 background: purple
-background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-15/43335546.jpg
+background-image: /style/images/ready_player_one.jpeg
 title:  "头号玩家"
 date:   2018-03-16
 category: 电影
