@@ -7,15 +7,6 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>在日本如何乘坐交通工具</title>
-        <category>旅行</category>
-        <description></description>
-        <pubDate>2018-04-01 00:00:00 </pubDate>
-        <link>http://localhost:4000/2018/04/01/japan-traffic.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/04/01/japan-traffic.html</guid>
-      </item>
-    
-      <item>
         <title>日本之行</title>
         <category>旅行</category>
         <description>行程是大阪——&gt;京都——&gt;奈良——&gt;大阪，为了不在一个地方玩两次，在大阪一着陆，便搭上了去京都的JR线。入住的酒店在三条河原町，新京极、清水寺、二条城、鸭川这些景点都在附近清水...</description>
