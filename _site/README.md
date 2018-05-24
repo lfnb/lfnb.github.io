@@ -1,57 +1,33 @@
-#### lfnb.github.io preview (demo) (https://lfnb.github.io/)
+# 我的轻博客
+### 布施，持戒，忍辱，精进，禅定，般若
 
-`Jekyll Themes`
-----------
-[中文版帮助文档README](/ChinaREADME.md)
-## `Lightweight`  `Minimalist`  `Jekyll blog`
+做一个乐善好施的人，一个热心肠的人
 
-### The first step is to click [fork][https://github.com/lfnb/lfnb.github.io/fork]
-### The second step is to modify the _config.yml in URL for your domain name
+做一个心中有标尺的人，有所为有所不为
 
-### OK all right, it's that simple
+做一个宽厚的人
 
-#### I don't want any copyright also don't need you to donate, I only need you with a star 🌟  Thx 😄
+做一个勤与业，勤于思，勤于道的人
 
-- [x] Automatic generation tag
-- [x] Automatic generation of JSON search
-- [x] Adaptive template
-- [x] Automatic generation of feed.xml
-- [x] Automatic paging generation
-- [x] Modify _config.yml's links for your menu
-- [x] Modify the _config.yml of paginate for how many pages you want to page
+做一个自省的人
 
-![uilfnb](https://raw.githubusercontent.com/lfnb/lfnb.github.io/master/thumbnails/ui.jpg) 
+做一个智慧的人
 
- ![archives](https://raw.githubusercontent.com/lfnb/lfnb.github.io/master/thumbnails/archives.png) 
+-|读书
 
- ![blog](https://raw.githubusercontent.com/lfnb/lfnb.github.io/master/thumbnails/blog.png) 
+    读万卷书，心有乾坤
 
- ![tags](https://raw.githubusercontent.com/lfnb/lfnb.github.io/master/thumbnails/tags.png) 
+-|撸码
 
-  ![404](https://raw.githubusercontent.com/lfnb/lfnb.github.io/master/thumbnails/404.png) 
+    撸码无数，心中无码
 
- ----------
-![blog JSON search](https://raw.githubusercontent.com/lfnb/lfnb.github.io/master/thumbnails/01.gif) 
+-|旅游
 
-### 1.First step Click[fork](https://github.com/lfnb/lfnb.github.io#fork-destination-box)
- 
-----
+    行万里路，相伴相惜
 
-![fork](https://raw.githubusercontent.com/lfnb/lfnb.github.io/master/thumbnails/02.gif)
-  
-  
+-|观影
+
+    梦里看花，水中捞月
 
 
-### 2. modify _config.yml url URL for your domain
-
-![modify _config.yml url URL for your domain](https://raw.githubusercontent.com/lfnb/lfnb.github.io/master/thumbnails/04.gif)
-  
-
-
-
-* [Issues](https://github.com/lfnb/lfnb.github.io/issues)
- 
-* [Email](mailto:lfnb@gmail.com)
- 
-* [Twitter](https://twitter.com/lfnb).
-
+bundle exec jekyll serve

@@ -1,49 +1,32 @@
-#### lfnb.github.io demo [查看](https://lfnb.github.io/)
+# 我的轻博客
+### 布施，持戒，忍辱，精进，禅定，般若
 
+做一个乐善好施的人，一个热心肠的人
 
-`Jekyll Themes`
-----------
-  
-### Jekyll轻量级极简博客
+做一个心中有标尺的人，有所为有所不为
 
-#### 第一步是点击[fork](https://github.com/lfnb/lfnb.github.io#fork-destination-box)
-##### 第二步: 修改_config.yml 中的url 为您的域名
-#### OK 好了  就这么简单  
-#### 我不要任何版权也不需要您在捐款，帮忙star下 一个🌟 谢谢 😄
-- [x] 自动生成标签
-- [x] 自动生成json搜索
-- [x] 自适应模板
-- [x] 自动生成feed.xml
-- [x] 自动生成分页
-- [x] 修改_config.yml 的links 为您的菜单
-- [x] 修改_config.yml  的paginate 为您的按照多少页分页
+做一个宽厚的人
 
-![uilfnb](https://raw.githubusercontent.com/lfnb/lfnb.github.io/master/thumbnails/ui.jpg) 
- 
- ----------
-![博客搜索](https://raw.githubusercontent.com/lfnb/lfnb.github.io/master/thumbnails/01.gif) 
+做一个勤与业，勤于思，勤于道的人
 
-轻量级 最小blog 
-第一步: 点击[fork](https://github.com/lfnb/lfnb.github.io#fork-destination-box)
- 
-----
+做一个自省的人
 
-![fork操作](https://raw.githubusercontent.com/lfnb/lfnb.github.io/master/thumbnails/02.gif)
-  
-  
+做一个智慧的人
 
+-|读书
 
-第二步: 修改_config.yml 中的url 为您的域名
+    读万卷书，心有乾坤
 
-![修改_config.yml 中的url 为您的域名](https://raw.githubusercontent.com/lfnb/lfnb.github.io/master/thumbnails/04.gif)
-  
+-|撸码
 
+    撸码无数，心中无码
 
+-|旅游
 
+    行万里路，相伴相惜
 
-* [提交Issues](https://github.com/lfnb/lfnb.github.io/issues)
- 
-* [发邮件](mailto:lfnb@gmail.com)
- 
-* [Twitter](https://twitter.com/lfnb).
+-|观影
 
+    梦里看花，水中捞月
+
+bundle exec jekyll serve
