@@ -7,6 +7,33 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>nodejs</title>
+        <category>撸码</category>
+        <description></description>
+        <pubDate>2018-05-24 00:00:00 </pubDate>
+        <link>http://localhost:4000/2018/05/24/node.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/24/node.html</guid>
+      </item>
+    
+      <item>
+        <title>google地图</title>
+        <category>撸码</category>
+        <description></description>
+        <pubDate>2018-05-24 00:00:00 </pubDate>
+        <link>http://localhost:4000/2018/05/24/googlemap.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/24/googlemap.html</guid>
+      </item>
+    
+      <item>
+        <title>商界局外人</title>
+        <category>读书</category>
+        <description></description>
+        <pubDate>2018-05-24 00:00:00 </pubDate>
+        <link>http://localhost:4000/2018/05/24/outsider.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/24/outsider.html</guid>
+      </item>
+    
+      <item>
         <title>日本之行</title>
         <category>旅行</category>
         <description>行程是大阪——&gt;京都——&gt;奈良——&gt;大阪，为了不在一个地方玩两次，在大阪一着陆，便搭上了去京都的JR线。入住的酒店在三条河原町，新京极、清水寺、二条城、鸭川这些景点都在附近清水...</description>
@@ -25,21 +52,30 @@
       </item>
     
       <item>
-        <title>微信小程序组件</title>
+        <title>React全家桶</title>
         <category>撸码</category>
         <description></description>
         <pubDate>2018-03-16 00:00:00 </pubDate>
-        <link>http://localhost:4000/2018/03/16/wx-app.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/03/16/wx-app.html</guid>
+        <link>http://localhost:4000/2018/03/16/react.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/16/react.html</guid>
       </item>
     
       <item>
         <title>三体</title>
         <category>读书</category>
-        <description></description>
+        <description>未来的事不在未来中，而在历史中。科技是中性的，披上科技的外衣，讲述历史往事，的确需要非凡的想象力。讲到神迹显现时，脑中浮现的是耶稣、舍利；讲到保存人类文化时，想到了焚书坑儒，而刻在石头上...</description>
         <pubDate>2018-03-16 00:00:00 </pubDate>
         <link>http://localhost:4000/2018/03/16/three-body.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/03/16/three-body.html</guid>
+      </item>
+    
+      <item>
+        <title>angular2</title>
+        <category>撸码</category>
+        <description></description>
+        <pubDate>2017-05-24 00:00:00 </pubDate>
+        <link>http://localhost:4000/2017/05/24/angular.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/05/24/angular.html</guid>
       </item>
     
   </channel>
